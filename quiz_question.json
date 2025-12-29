@@ -1,0 +1,3392 @@
+[
+    {
+        "question": "To handle the massive amounts of data and powering essential applications, the type of computer that can be used in large business organisations is",
+        "options": [
+            "A. minicomputer",
+            "B. supercomputer",
+            "C. microcomputer",
+            "D. mainframe computer"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "There are four stages in data processing cycle and in each stage a number of tasks are performed. TWO tasks that are performed during processing stage are",
+        "options": [
+            "A. data capture and presenting data to user",
+            "B. executing instructions and presenting data to user",
+            "C. data capture and transform raw data into information",
+            "D. executing instructions and transform raw data into information"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The PRIMARY purpose of an operating system (OS) is to",
+        "options": [
+            "A. manage hardware resources",
+            "B. run applications exclusively",
+            "C. connect to the internet",
+            "D. provide security only"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The type of software that is typically available for free but may have limitations on features/ time of use is a/ an",
+        "options": [
+            "A. open-source software",
+            "B. licensed software",
+            "C. shareware",
+            "D. freeware"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The MAIN purpose of the utility software is to",
+        "options": [
+            "A. provide a platform for running applications and managing system resources",
+            "B. perform routine tasks that optimise the performance of a computer system",
+            "C. enhance the graphics and user interface of an operating system",
+            "D. compile and execute high-level programming languages"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The kind of application software that is made especially for data analysis and mathematical computations is",
+        "options": [
+            "A. word processor",
+            "B. web browser",
+            "C. spreadsheet",
+            "D. editor"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following pointing devices is BEST suited for precise drawing and design work on a computer screen?",
+        "options": [
+            "A. Joystick",
+            "B. Trackball",
+            "C. Touchpad",
+            "D. Graphics tablet"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In which scenario would you use a touch screen with capacitive technology when using a device?",
+        "options": [
+            "A. Where precise input is required using a stylus pen",
+            "B. In medical equipment that require pressure-based input",
+            "C. Where electrical conductance of the human skin is required",
+            "D. In a bright outdoor environment that requires high visibility"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The device that is commonly used in automated teller machine (ATM)s for reading bank card information is",
+        "options": [
+            "A. barcode reader",
+            "B. optical mark reader (OMR)",
+            "C. magnetic card reader (MCR)",
+            "D. quick response (QR) code reader"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The data capture device that is typically used for automated cheque processing in banks is",
+        "options": [
+            "A. magnetic ink character reader (MICR)",
+            "B. quick response (QR) code reader",
+            "C. optical character reader (OCR)",
+            "D. barcode reader"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "If one character occupies 8 bits in a computer memory, then the number of bytes required to store the word ADD-ON will be",
+        "options": [
+            "A. 5 bytes",
+            "B. 6 bytes",
+            "C. 40 bytes",
+            "D. 48 bytes"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many gibibytes (GiB) are in 2 tebibyte (TiB)?",
+        "options": [
+            "A. 2048 GiB",
+            "B. 2048 MiB",
+            "C. 1024 MiB",
+            "D. 1024 GiB"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The statement that describes the read only memory (ROM) is that it is used",
+        "options": [
+            "A. for temporary storage of data",
+            "B. to store firmware and is non-volatile",
+            "C. to modify existing data stored in ROM",
+            "D. to add new or delete previous data stored in ROM"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The PRIMARY function of the cache memory in a processor is to",
+        "options": [
+            "A. store frequently used data",
+            "B. store user files permanently",
+            "C. store the operating system (OS)",
+            "D. provide additional storage space"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following characteristics is TRUE about Dynamic Random Access Memory (DRAM)?",
+        "options": [
+            "A. It does not require refreshing",
+            "B. It uses a single transistor per cell",
+            "C. It is faster than static RAM (SRAM)",
+            "D. It does not require electricity to retain data"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which type of Random Access Memory (RAM) is generally used for Central Processing Unit (CPU) cache?",
+        "options": [
+            "A. SRAM",
+            "B. DRAM",
+            "C. SDRAM",
+            "D. DDR SDRAM"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "How does the size and speed of L3 cache generally compare to L1 and L2 caches?",
+        "options": [
+            "A. L3 cache is larger and slower than L1 and L2 caches",
+            "B. L3 cache is smaller and faster than L1 and L2 caches",
+            "C. L3 cache is the same size and speed as L1 and L2 caches",
+            "D. L3 cache is the same size but faster than L1 and L2 caches"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Following are the devices used for storing data. I. CD II. DVD III. Blu-Ray The device(s) that use(s) a red-violet laser to read and write data is/ are",
+        "options": [
+            "A. I only",
+            "B. III only",
+            "C. I and II",
+            "D. II and III"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Flash memory and Secure Digital (SD) cards store data by using",
+        "options": [
+            "A. electrons in a memory cell made up of transistors",
+            "B. a magnetic coating on a spinning disk",
+            "C. a laser to read and write data",
+            "D. temporary storage method"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The primary function of a register in a CPU is to",
+        "options": [
+            "A. manage data flow",
+            "B. store long-term data",
+            "C. hold data temporarily for processing",
+            "D. connect external devices through bus"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The register that is used to store intermediate results of calculations in the CPU is",
+        "options": [
+            "A. Stack Pointer (SP)",
+            "B. Accumulator (AC)",
+            "C. Base Register (BR)",
+            "D. Status Register (SR)"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In the execute phase of the fetch-decode-execute cycle, the role of CPU is to",
+        "options": [
+            "A. retrieve the next instruction from memory",
+            "B. store the result back in the memory",
+            "C. interpret the instruction",
+            "D. decode the instruction"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "All of the following are the components of the CPU EXCEPT",
+        "options": [
+            "A. registers",
+            "B. system unit",
+            "C. control unit",
+            "D. internal buses"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The examples of general-purpose registers are the",
+        "options": [
+            "A. base register and counter register",
+            "B. data register and instruction register",
+            "C. instruction register and accumulator register",
+            "D. accumulator register and memory address register"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Data transfer instruction is used to transfer data between the",
+        "options": [
+            "A. RAM and I/O",
+            "B. I/O and hard disk",
+            "C. register and RAM",
+            "D. register and hard disk"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The port that is used for transmitting high-definition video and audio signals from a computer to a display is",
+        "options": [
+            "A. HDMI port",
+            "B. Serial port",
+            "C. USB port",
+            "D. PS/2 port"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The card used to connect a computer to a wired network, providing high-speed network access is a",
+        "options": [
+            "A. wireless network card",
+            "B. modem card",
+            "C. gigabit card",
+            "D. sound card"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The number of channel paths used by a Single Inline Memory Module (SIMM) and Dual Inline Memory Module (DIMM) are",
+        "options": [
+            "A. SIMMs have a 64-bit data path, while DIMMs have a 32-bit data path",
+            "B. SIMMs have a 32-bit data path, while DIMMs have a 64-bit data path",
+            "C. SIMMs and DIMMs both have 32-bit data paths",
+            "D. SIMMs and DIMMs both have 64-bit data paths"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The THREE main components in a system unit are",
+        "options": [
+            "A. casing, mouse and monitor",
+            "B. monitor, keyboard and mouse",
+            "C. casing, power supply and motherboard",
+            "D. keyboard, power supply and motherboard"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The PRIMARY purpose of a computer network is to",
+        "options": [
+            "A. allow communication and resource sharing",
+            "B. process and store complex calculations",
+            "C. store large amounts of data",
+            "D. enhance graphic rendering"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Read the following features. \u2022 Communication within a few centimetres to a few metres \u2022 Commonly used for devices such as wearable technology The type of network that is described in the given features is",
+        "options": [
+            "A. Metropolitan Area Network (MAN)",
+            "B. Interplanetary Internet (IPN)",
+            "C. Wide Area Network (WAN)",
+            "D. Body Area Network (BAN)"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Three Open System Interconnection (OSI) model layers are merged as one layer in Transmission Control Protocol/ Internet Protocol (TCP/ IP) model, i.e. Application layer. If one of these layers is application layer, the other TWO OSI model layers would be",
+        "options": [
+            "A. physical and network",
+            "B. network and transport",
+            "C. session and presentation",
+            "D. transport and presentation"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The topology in which each node interconnected with many or all other nodes, providing multiple paths for data transmission is",
+        "options": [
+            "A. bus",
+            "B. star",
+            "C. ring",
+            "D. mesh"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "According to which network topology, every node forms a closed loop with a single point-to-point connection?",
+        "options": [
+            "A. Star",
+            "B. Ring",
+            "C. Tree",
+            "D. Mesh"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The wireless technology that is commonly used for short-range communication between devices, often within the range of about 10 metres, is",
+        "options": [
+            "A. LTE",
+            "B. Wi-Fi",
+            "C. WiMAX",
+            "D. Bluetooth"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The network in which users can be added without changing the physical connections of the network is a/ an",
+        "options": [
+            "A. infra-red network",
+            "B. optic fibre network",
+            "C. coaxial cable network",
+            "D. telephone line network"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The term, \u2018line of sight\u2019 in the context of wireless communication refers to the",
+        "options": [
+            "A. direct visual path between the transmitter and receiver",
+            "B. curvature of the Earth affecting signal transmission",
+            "C. distance a signal can travel without losing strength",
+            "D. frequency of the radio signal"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The mobile communication technology that allows simultaneous voice and data transmission on the same channel is known as",
+        "options": [
+            "A. GSM (Global System for Mobile communication)",
+            "B. FDMA (Frequency Division Multiple Access)",
+            "C. CDMA (Code Division Multiple Access)",
+            "D. LTE (Long Term Evolution)"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The PRIMARY use of Global Positioning System (GPS) technology is to",
+        "options": [
+            "A. enhance computer networks",
+            "B. speed up internet connection",
+            "C. provide real-time navigation",
+            "D. share large amounts of data through satellite"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is the disadvantage of using a Database Management System (DBMS)?",
+        "options": [
+            "A. Data inconsistency",
+            "B. Limited data access",
+            "C. Difficult data integration",
+            "D. High implementation cost"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the following characteristics of a database: \u2022 Tree like structure \u2022 Single parent \u2022 Potentially multiple children The database model based on the given characteristics is called",
+        "options": [
+            "A. network model",
+            "B. hierarchical model",
+            "C. object-oriented model",
+            "D. object-relational model"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In the context of relational model, the foreign key is used to",
+        "options": [
+            "A. uniquely identify each record in a table",
+            "B. enforce data type constraints",
+            "C. link two tables together",
+            "D. store large text data"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A record in a database is defined as a",
+        "options": [
+            "A. single piece of data",
+            "B. collection of related fields",
+            "C. visual representation of data",
+            "D. storage format for digital data"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In a database table, another term used for a column is",
+        "options": [
+            "A. record",
+            "B. tuple",
+            "C. field",
+            "D. file"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "An employee database table has following fields. The Employee_ID is the primary key. I. Employee_ID II. Employee_Name III. Employee_National_ID_Card_Number IV. Employee_Age V. Employee_Gender VI. Employee_Address In the given options, the MOST appropriate table field having number data type is",
+        "options": [
+            "A. II only",
+            "B. IV only",
+            "C. V only",
+            "D. VI only"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which MS Access object allows end users to create a customised interface for data entry and editing?",
+        "options": [
+            "A. Table",
+            "B. Form",
+            "C. Query",
+            "D. Report"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In MS-Access, the PRIMARY function of a table is to",
+        "options": [
+            "A. filter data based on specific criteria",
+            "B. store data in rows and columns",
+            "C. generate graphical reports",
+            "D. view data on screen"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "If I want to remove a table from database in MS-Access, the data definition language command in SQL would be",
+        "options": [
+            "A. TRUNCATE TABLE",
+            "B. REMOVE TABLE",
+            "C. DELETE TABLE",
+            "D. DROP TABLE"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The MS Access query that will fetch records that consist of CarModel and CarPrice fields from a database table named as Cars is",
+        "options": [
+            "A. Select CarModel, CarPrice From Cars;",
+            "B. Select *CarModel, *CarPrice From Cars;",
+            "C. Select CarModel AND CarPrice From Cars;",
+            "D. Select *(CarModel AND CarPrice) From Cars;"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The primary purpose of the WHERE statement in SQL within MS-Access is to",
+        "options": [
+            "A. update existing data in a table",
+            "B. insert new data into a table",
+            "C. filter data from a table",
+            "D. delete data from a table"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Ayan wants to draw some 2D/ 3D illustrations using a computing device. The computing device that is BEST to perform the given task is",
+        "options": [
+            "A. mouse",
+            "B. trackball",
+            "C. smartphone",
+            "D. graphic tablet"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The step of data processing cycle that is involved in taking raw data for processing is",
+        "options": [
+            "A. input",
+            "B. output",
+            "C. storage",
+            "D. process"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following characteristics distinguishes a microcomputer from other computer types?",
+        "options": [
+            "A. It is physically the smallest type of computer",
+            "B. It operates without the need for an operating system",
+            "C. It is primarily used for scientific and research purposes",
+            "D. It has the highest processing speed among all computers"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the given examples of software. I. Games II. Compiler III. Disk Cleaner IV. Database Management System. The examples of system software are",
+        "options": [
+            "A. I and II",
+            "B. I and IV",
+            "C. II and III",
+            "D. III and IV"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which type of system software is responsible for performing disk cleanup and defragmentation?",
+        "options": [
+            "A. Language translators",
+            "B. Operating system",
+            "C. Utility software",
+            "D. Device driver"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A type of software that allows users to freely use, modify and distribute the source code is",
+        "options": [
+            "A. freeware",
+            "B. shareware",
+            "C. licensed software",
+            "D. open source software"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Example of auto capture device is",
+        "options": [
+            "A. mouse",
+            "B. keyboard",
+            "C. touch screen",
+            "D. barcode reader"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following devices can perform both input and output operations?",
+        "options": [
+            "A. Printer",
+            "B. Scanner",
+            "C. Light Pen",
+            "D. Touch Screen"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Scanner scans filled-in bubbles from answer sheets for grading multiple choice questions. The device/ reader identified from the given description is a/ an",
+        "options": [
+            "A. Optical Mark Reader (OMR)",
+            "B. Optical Character Reader (OCR)",
+            "C. Quick Response (QR) code reader",
+            "D. Magnetic Ink Character Reader (MICR)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the given properties: It is used for converting output for long-term storage and archiving purposes. It is often used for preserving critical documents and records. It has high data security against digital threats. The BEST output device that describes the given properties is",
+        "options": [
+            "A. Monitor",
+            "B. Projector",
+            "C. Flatbed plotter",
+            "D. Computer Output Microfilm (COM)"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "4 Mebibyte is equal to",
+        "options": [
+            "A. 4,000 bytes",
+            "B. 4,096 bytes",
+            "C. 4,000,000 bytes",
+            "D. 4,194,304 bytes"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The characteristic that is shared by both SRAM and DRAM is",
+        "options": [
+            "A. use of transistors for data storage",
+            "B. lack of refresh requirements",
+            "C. non-volatile storage",
+            "D. slow access time"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the given characteristics: I. It was used in early computer systems. II. It is smaller in size because of no erasure capability. III. It can retain data for upto 20 years, if not exposed to UV light. The characteristic(s) that BEST describe PROM is/ are",
+        "options": [
+            "A. I only",
+            "B. III only",
+            "C. I and II",
+            "D. II and III"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The PRIMARY role of the Basic Input/ Output System (BIOS) is",
+        "options": [
+            "A. connecting to the internet",
+            "B. loading the operating system",
+            "C. executing application software",
+            "D. checking hardware components"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In contrast to L2 cache, L1 cache",
+        "options": [
+            "A. is slower",
+            "B. is fixed in size",
+            "C. consumes less power",
+            "D. is located on the motherboard"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following memories uses optical storage technology?",
+        "options": [
+            "A. Cache",
+            "B. Register",
+            "C. CD-ROM",
+            "D. USB flash drive"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The type of storage that is typically used for direct data access and stores data in magnetic form is",
+        "options": [
+            "A. hard disk",
+            "B. magnetic tapes",
+            "C. USB flash drive",
+            "D. Solid State Drive (SSD)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Sana is a video editor. She wants to store a video of 2 GB. In the given scenario, the type of optical storage media, Sana will use is",
+        "options": [
+            "A. SD card",
+            "B. flash drive",
+            "C. CD-ROM",
+            "D. DVD-ROM"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "An example of sequential storage device is",
+        "options": [
+            "A. DVD",
+            "B. flash drive",
+            "C. magnetic tape",
+            "D. magnetic disk"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is a component of a central processing unit?",
+        "options": [
+            "A. Expansion cards",
+            "B. Motherboard",
+            "C. Control unit",
+            "D. System unit"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the given table that shows four memory addresses and the content stored in them. If a program counter (PC) holds the address 00101 at the beginning of the fetch cycle, then the content stored in the given registers would be",
+        "options": [
+            "A. 00101 11001100",
+            "B. 00110 11110000",
+            "C. 00111 00110011",
+            "D. 00100 10101010"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The type of CPU instruction that is responsible for changing the sequence of program execution, such as branching to different program segments is",
+        "options": [
+            "A. data transfer instruction",
+            "B. input/ output instruction",
+            "C. data processing instruction",
+            "D. program control instruction"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The instruction format that allows the operation to be performed on one explicit source operand, and the result to be stored in a second explicit destination operand is",
+        "options": [
+            "A. zero address instruction",
+            "B. one address instruction",
+            "C. two address instruction",
+            "D. three address instruction"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A stage of fetch-decode-execute cycle, that begins when the instruction is received by the control unit is",
+        "options": [
+            "A. store",
+            "B. fetch",
+            "C. decode",
+            "D. execute"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "CISC architecture focuses on providing a wide variety of instructions to handle complex tasks efficiently, often involving memory access. In contrary to the above statement, RISC architectures simplifies instructions and places a heavier emphasis on",
+        "options": [
+            "A. including instructions for arithmetic calculations only",
+            "B. reducing the complexity of individual instructions",
+            "C. reducing the number of available instructions",
+            "D. minimising the number of registers available"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The PRIMARY function of the power supply within the system unit is to",
+        "options": [
+            "A. stores electrical power",
+            "B. control input and output devices",
+            "C. process data and perform calculations",
+            "D. supply electrical power to all internal components"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Given is the image of a computer port. The name of this port is a/ an",
+        "options": [
+            "A. PS/2 port",
+            "B. serial port",
+            "C. HDMI port",
+            "D. fire wire port"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The expansion card that can provide the data transfer speed up to 1000 Mbps is",
+        "options": [
+            "A. gigabit card",
+            "B. modem card",
+            "C. wireless network card",
+            "D. network interface card (NIC)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following options CORRECTLY describes the memory chip allocation on both the sides of SIMM and DIMM?",
+        "options": [
+            "A. Yes Yes",
+            "B. Yes No",
+            "C. No Yes",
+            "D. No No"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "If Tooba wants to connect her fitness tracker device with the smart phone, then the type of network she will use is",
+        "options": [
+            "A. wide area network",
+            "B. local area network",
+            "C. near-me-area network",
+            "D. personal area network"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In a network, the component that is responsible for initiating the communication process by creating and sending data or information is",
+        "options": [
+            "A. sender",
+            "B. medium",
+            "C. protocol",
+            "D. receiver"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In fibre optic cables, the data is transmitted through",
+        "options": [
+            "A. light waves",
+            "B. radio waves",
+            "C. sound waves",
+            "D. electromagnetic waves"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The number of layers in TCP/ IP model is",
+        "options": [
+            "A. two",
+            "B. four",
+            "C. six",
+            "D. seven"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An IPv4 address is made up of",
+        "options": [
+            "A. 4 bits",
+            "B. 8 bits",
+            "C. 4 bytes",
+            "D. 8 bytes"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "An example of wireless Local Area Network (WLAN) is",
+        "options": [
+            "A. Wi-Fi",
+            "B. bluetooth",
+            "C. cellular network",
+            "D. satellite communication"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In contrast to wired network, wireless network has",
+        "options": [
+            "A. greater security",
+            "B. mobility and flexibility",
+            "C. lower initial setup costs",
+            "D. higher data transfer speeds"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The PRIMARY purpose of a SIM (Subscriber Identity Module) card in mobile communication is to",
+        "options": [
+            "A. authenticate the user and connect to the mobile network",
+            "B. play multimedia content using mobile network",
+            "C. store contact information in the mobile device",
+            "D. provide electrical power to the mobile device"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The component that is responsible for routing incoming and outgoing calls in a mobile communication network is",
+        "options": [
+            "A. base station",
+            "B. mobile phone",
+            "C. switching node",
+            "D. landline telephone network"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "All of the following are common applications of GPS technology EXCEPT",
+        "options": [
+            "A. weather forecasting",
+            "B. navigation and mapping",
+            "C. geocaching and outdoor activities",
+            "D. vehicle tracking and fleet management"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Usman is working on a project that involves storing geographical data, including maps, coordinates and related information. The MOST suitable database model for this project will be",
+        "options": [
+            "A. network database",
+            "B. relational database",
+            "C. hierarchical database",
+            "D. object-oriented database"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the given tasks. I. Inserting data into the database II. Deleting objects from the database III. Deleting records from the database IV. Granting permissions to the database users. The task(s) performed by data control language of SQL is/ are",
+        "options": [
+            "A. I only",
+            "B. IV only",
+            "C. I, II and III",
+            "D. II, III and IV"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The name of data type used in the field Married is",
+        "options": [
+            "A. Text",
+            "B. Yes/ No",
+            "C. Number",
+            "D. OLE Object"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "A customer database in an e-commerce platform uses email addresses to uniquely identify users. However, the platform also assigns a user-specific ID number. What type of key is the user-specific ID number?",
+        "options": [
+            "A. Secondary Key",
+            "B. Alternate Key",
+            "C. Primary Key",
+            "D. Foreign Key"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In a hospital management system database, there are two entities: 'Doctor' and 'Patient.' A doctor can treat multiple patients, and a patient can consult multiple doctors. The type of relationship exists between the 'Doctor' and 'Patient' entities is",
+        "options": [
+            "A. one-to-one relationship",
+            "B. one-to-many relationship",
+            "C. many-to-one relationship",
+            "D. many-to-many relationship"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the given image representing cardinality and modality. The CORRECT interpretation of cardinality and modality from the given image is that",
+        "options": [
+            "A. cardinality is one and modality is one",
+            "B. cardinality is zero and modality is zero",
+            "C. cardinality is zero and modality is many",
+            "D. cardinality is many and modality is many"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In an MS Access database, if you want to retrieve the 'ProductDescription' and 'Price' fields from a table called 'Inventory', the CORRECT query will be",
+        "options": [
+            "A. Select ProductDescription, Price From Inventory;",
+            "B. Select *ProductDescription, *Price From Inventory;",
+            "C. Select ProductDescription AND Price From Inventory;",
+            "D. Select *(ProductDescription AND Price) From Inventory;"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In a database table named 'Employees,' you need to fetch records sorted by their 'Salary' column from low to high salary. The SQL (DML) statement used will be",
+        "options": [
+            "A. Select * From Employees Sort Salary ASC;",
+            "B. Select * From Employees Order Salary ASC;",
+            "C. Select * From Employees Sort By Salary ASC;",
+            "D. Select * From Employees Order By Salary ASC;"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In a database, there is a table named 'Inventory' that needs to be deleted completely. The SQL (DDL) statement used for this purpose will be",
+        "options": [
+            "A. Truncate Table Inventory;",
+            "B. Remove Table Inventory;",
+            "C. Delete Table Inventory;",
+            "D. Drop Table Inventory;"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The query created in design view to change the color of Buzuki Gultus to Black from Silver is",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The query created in design view to delete an existing record of Buzuki Diaz is",
+        "options": [
+            "A",
+            "B",
+            "C",
+            "D"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "There are four stages in data processing cycle and in each stage a number of tasks are performed. TWO tasks that are performed during processing stage are",
+        "options": [
+            "A. data capture and presenting data to user",
+            "B. executing instructions and presenting data to user",
+            "C. data capture and transform raw data into information",
+            "D. executing instructions and transform raw data into information"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A software that reduces the logical size of a file to save disk space is an example of a/ an",
+        "options": [
+            "A. device driver",
+            "B. utility software",
+            "C. operating system",
+            "D. productivity software"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An example of an open source software is",
+        "options": [
+            "A. Skype",
+            "B. Linux",
+            "C. Adobe Reader",
+            "D. Microsoft Windows"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "It consists of a normal scanner and some special softwares. The scanner scans text from a document and the software changes the scanned text into editable text. The device/ reader identified from the given description is a/ an",
+        "options": [
+            "A. quick response code reader",
+            "B. magnetic ink character reader",
+            "C. optical mark recognition reader",
+            "D. optical character recognition reader"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "When a user installs an app in a smartphone, the app is stored in a",
+        "options": [
+            "A. RAM",
+            "B. ROM",
+            "C. cache",
+            "D. hard disk"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The MOST appropriate computer system used for storing and processing information of large banks is a",
+        "options": [
+            "A. minicomputer",
+            "B. supercomputer",
+            "C. microcomputer",
+            "D. mainframe computer"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A software that is used as an interface between user and machine is an example of a/ an",
+        "options": [
+            "A. device driver",
+            "B. operating system",
+            "C. language translator",
+            "D. entertainment software"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The examples of manual data entry devices are",
+        "options": [
+            "A. interactive whiteboards and touchscreens",
+            "B. quick response code readers and touchscreens",
+            "C. interactive whiteboards and optical character readers",
+            "D. optical character readers and quick response code readers"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "In contrast to the capacitive and the resistive touch screen technologies, the infrared technology",
+        "options": [
+            "A. is the most expensive technology",
+            "B. is least durable than other two technologies",
+            "C. has poor screen visibility in bright sunlight",
+            "D. uses polyester on the upper layer and glass on the lower layer of the screen"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "If a person wants to use a software on trial basis before purchasing it, then the type of software used will be",
+        "options": [
+            "A. freeware",
+            "B. firmware",
+            "C. shareware",
+            "D. open source software"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following memories, can a CPU directly communicate with?",
+        "options": [
+            "A. Register",
+            "B. CD-ROM",
+            "C. DVD-ROM",
+            "D. USB Flash Drive"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In contrast to the primary memory, the secondary memory",
+        "options": [
+            "A. is costly",
+            "B. is volatile in nature",
+            "C. is accessed by I/O channels",
+            "D. always has a lower storage capacity"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Omar stored a data of 5 GB on an optical storage media. Later on, he stored an additional data of 3 GB on the same media. In the given scenario, the type of optical storage is a",
+        "options": [
+            "A. DVD-R",
+            "B. DVD-RW",
+            "C. CD-ROM",
+            "D. DVD-ROM"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "There are three types of cache memory, i.e., L1, L2 and L3. Which of the following options CORRECTLY determines the precise locations of these cache memories?",
+        "options": [
+            "A. L1 and L2 L3",
+            "B. L1 L2 and L3",
+            "C. L2 and L3 L1",
+            "D. L3 L1 and L2"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "How many kibibytes are there in four mebibytes?",
+        "options": [
+            "A. 2000",
+            "B. 2048",
+            "C. 4000",
+            "D. 4096"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In binary number system, if 1.5KB of memory is converted into bits, then the result will be",
+        "options": [
+            "A. 8000 bits",
+            "B. 8192 bits",
+            "C. 12000 bits",
+            "D. 12288 bits"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An example of a solid state storage device is a",
+        "options": [
+            "A. hard disk",
+            "B. CD-ROM",
+            "C. DVD-RAM",
+            "D. secure digital card"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "One of the types of non-volatile memory is",
+        "options": [
+            "A. Cache",
+            "B. SRAM",
+            "C. DRAM",
+            "D. PROM"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Primary memory is a part of the computer system that holds data and instructions for processing. It is mainly used by the system at startup and to run various types of programs such as operating system. The given statement refers to all of the following types of memory EXCEPT",
+        "options": [
+            "A. RAM",
+            "B. ROM",
+            "C. flash memory",
+            "D. cache memory"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Data transfer instruction is used to transfer data between the",
+        "options": [
+            "A. RAM and I/O",
+            "B. I/O and hard disk",
+            "C. register and RAM",
+            "D. register and hard disk"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the given table that shows four memory addresses and the content stored in them. Memory Address Content 10101 11000011 10110 11010010 10111 11011100 11000 10001001 If a program counter (PC) holds the address 10110 at the beginning of the fetch cycle, then the content stored in the given registers would be",
+        "options": [
+            "A. 10110 11010010 11010010",
+            "B. 10111 11011100 11011100",
+            "C. 11010010 11010010 10110",
+            "D. 11011100 11011100 10111"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The CORRECT categorisation of the examples of CPU instructions is Data Transfer Instruction, Data Processing Instruction, Program Control Instruction",
+        "options": [
+            "A. LOAD DIV LOOP",
+            "B. LOOP DIV LOAD",
+            "C. LOAD LOOP DIV",
+            "D. DIV LOAD LOOP"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "All of the following are the components of the central processing unit EXCEPT",
+        "options": [
+            "A. registers",
+            "B. system unit",
+            "C. control unit",
+            "D. internal buses"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The examples of general-purpose registers are the",
+        "options": [
+            "A. base register and counter register",
+            "B. data register and instruction register",
+            "C. instruction register and accumulator register",
+            "D. accumulator register and memory address register"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "If the op-code of a microprocessor consists of 6 bits, then how many distinct operations can be performed by the device?",
+        "options": [
+            "A. 6",
+            "B. 16",
+            "C. 32",
+            "D. 64"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The THREE main components in a system unit are",
+        "options": [
+            "A. casing, mouse and monitor",
+            "B. monitor, keyboard and mouse",
+            "C. casing, power supply and motherboard",
+            "D. keyboard, power supply and motherboard"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Given is the image of a computer port. The name of this port is a/ an",
+        "options": [
+            "A. PS/2 port",
+            "B. serial port",
+            "C. HDMI port",
+            "D. fire wire port"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "An integrated graphic card uses some of the computer\u2019s memory when displaying heavy graphics. This memory is a",
+        "options": [
+            "A. RAM",
+            "B. ROM",
+            "C. flash memory",
+            "D. magnetic storage"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "How many types of modems are there?",
+        "options": [
+            "A. Two",
+            "B. Three",
+            "C. Four",
+            "D. Five"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Using the mobile data, Shams shared a picture with his friend who was sitting in the same room. Both friends use different mobile service providers. The network created between Shams and his friend while transferring the picture is an example of a",
+        "options": [
+            "A. wide area network",
+            "B. local area network",
+            "C. near-me-area network",
+            "D. personal area network"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A topology in which all nodes are directly connected to each other is the",
+        "options": [
+            "A. bus topology",
+            "B. star topology",
+            "C. ring topology",
+            "D. mesh topology"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A topology which is integration of various star topologies together in a single bus is a",
+        "options": [
+            "A. bus topology",
+            "B. star topology",
+            "C. tree topology",
+            "D. mesh topology"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the given protocols: I. TCP II. ICMP III. UDP IV. IGMP The protocols that work on the transport layer of OSI model are",
+        "options": [
+            "A. I and II",
+            "B. I and III",
+            "C. II and IV",
+            "D. III and IV"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Data at each level is generally termed as protocol data unit (PDU). The unit at the data link layer is termed as",
+        "options": [
+            "A. a segment",
+            "B. a packet",
+            "C. a frame",
+            "D. bits"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Manzoor has moved to a new city for employment. The nature of his job requires him to travel around the city and enter data using his company\u2019s website. Which of the following modes of communication is PRIMARILY needed to be used in the given situation?",
+        "options": [
+            "A. Wi-Fi",
+            "B. Bluetooth",
+            "C. WiMAX",
+            "D. Infra-red"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following is/ are based on the concept of line of sight communication? I. Communication via Wi-Fi II. Communication via Satellite III. Communication via Bluetooth",
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. I and III",
+            "D. II and III"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The network in which users can be added without changing the physical connections of the network is a/ an",
+        "options": [
+            "A. infra-red network",
+            "B. optic fibre network",
+            "C. coaxial cable network",
+            "D. telephone line network"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "All of the following elements may weaken the wireless signals EXCEPT",
+        "options": [
+            "A. buildings",
+            "B. bad weather",
+            "C. long distance",
+            "D. guided media"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In a cellular communication, a call is made from mobile phone X to mobile phone Y. Based on the given situation, mobile phone X FIRST gets connected to the",
+        "options": [
+            "A. base station",
+            "B. switching node",
+            "C. mobile phone Y",
+            "D. landline network"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "All of the following are the advantages of database management system EXCEPT",
+        "options": [
+            "A. data redundancy",
+            "B. data consistency",
+            "C. data recovery",
+            "D. data security"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the given uses: Minimises the duplication of information, Safeguards the database against certain anomalies, Divides large tables into small well organised tables. In terms of database, which of the following includes all the given uses?",
+        "options": [
+            "A. Modality",
+            "B. Cardinality",
+            "C. Relationship",
+            "D. Normalisation"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the given image of an entity relationship diagram (ERD). The modality and cardinality illustrated in the given image can be interpreted as",
+        "options": [
+            "A. One Zero Many One",
+            "B. Zero One One Many",
+            "C. One Zero One Many",
+            "D. Zero One Many One"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following data modelling types addresses the unique requirements of a specific business?",
+        "options": [
+            "A. Conceptual Data Modelling",
+            "B. Enterprise Data Modelling",
+            "C. Physical Data Modelling",
+            "D. Logical Data Modelling"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The given diagram shows an example of a database model. Based on the given information, the database model can be identified as a/ an",
+        "options": [
+            "A. network database model",
+            "B. hierarchy database model",
+            "C. object-oriented database model",
+            "D. object relational database model"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A freelancer has developed a library management database system with the following entities: Books, Readers, Publishers, Authentication_System, Reports and Staff. Which of the following is a well-defined relationship between the Authentication_System entity and the Staff entity?",
+        "options": [
+            "A. One-to-one",
+            "B. One-to-many",
+            "C. Many-to-one",
+            "D. Many-to-many"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The MS Access query that will fetch records that consist of CarModel and CarPrice fields from a database table named as Cars is",
+        "options": [
+            "A. Select CarModel, CarPrice From Cars;",
+            "B. Select *CarModel, *CarPrice From Cars;",
+            "C. Select CarModel AND CarPrice From Cars;",
+            "D. Select *(CarModel AND CarPrice) From Cars;"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The MS Access query that will fetch all the records of clients living in Karachi from a database table named as Clients is",
+        "options": [
+            "A. Select * From Clients Where City = 'Karachi';",
+            "B. Select * From Clients Where City = $Karachi;",
+            "C. Select * From Karachi Where Table = Clients;",
+            "D. Select * From City = Karachi Where Table = Clients;"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The MS Access query that will fetch all the records of clients having monthly income between 50,000 and 75,000 rupees from a database table named as Clients is",
+        "options": [
+            "A. Select * From Clients Where Income > 50,000 OR Income < 75,000;",
+            "B. Select * From Clients Where Income > 50000 AND Income < 75000;",
+            "C. Select * From Income = 50000 AND Income = 75000 Where Table = Clients;",
+            "D. Select * From Income >= 50000 AND Income =< 75000 Where Table = Clients;"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Fatima has created a database table named as Stores. She wants to insert a column named as ContactNumber. The query that she should use to do this task is",
+        "options": [
+            "A. Alter Table Stores Add ContactNumber Int;",
+            "B. Alter Table Stores Include ContactNumber Int;",
+            "C. Alter Stores Table Append ContactNumber Int;",
+            "D. Alter Insert ContactNumber Int Where Table = Stores;"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The MS Access query that will delete a database table named as Class is",
+        "options": [
+            "A. Drop Table Class;",
+            "B. Erase Table Class;",
+            "C. Delete Table Class;",
+            "D. Remove Table Class"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The Operating System (OS) that permits several users at different terminals to access a specific computer system simultaneously is",
+        "options": [
+            "A. simple batch OS",
+            "B. multitasking OS",
+            "C. time-sharing OS",
+            "D. distributed OS"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the following 4 processes with burst times:\nP1: 6 ms, P2: 2 ms, P3: 8 ms, P4: 3 ms\nWhich sequence will minimise total execution time?",
+        "options": [
+            "A. P1 \u2192 P2 \u2192 P3 \u2192 P4",
+            "B. P2 \u2192 P4 \u2192 P1 \u2192 P3",
+            "C. P3 \u2192 P1 \u2192 P2 \u2192 P4",
+            "D. P4 \u2192 P2 \u2192 P1 \u2192 P3"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The advantage of using the Command Line Interface (CLI) over GUI is that CLI",
+        "options": [
+            "A. requires more system resources",
+            "B. is more user-friendly for beginners",
+            "C. offers better multitasking capabilities with graphical windows",
+            "D. allows more precise control with faster execution of commands"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "In an operating system, the function of process management is to",
+        "options": [
+            "A. manage the user interface",
+            "B. allocate system resources to processes",
+            "C. schedule updates for software packages",
+            "D. ensure communication between the network and applications"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The MAIN purpose of a multithreading is to",
+        "options": [
+            "A. allow a single CPU to run multiple operating systems",
+            "B. use additional memory to improve system performance",
+            "C. execute multiple programs in parallel on separate processors",
+            "D. perform multiple tasks concurrently within the same process"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Disk Operating System (DOS) is an example of",
+        "options": [
+            "A. time-sharing operating system",
+            "B. single-user operating system",
+            "C. multi-user operating system",
+            "D. real-time operating system"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The phase that specifies the software architecture and system structure in System Development Life Cycle (SDLC) is",
+        "options": [
+            "A. implementation",
+            "B. deployment",
+            "C. planning",
+            "D. design"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A computer system is defined as a",
+        "options": [
+            "A. set of instructions that tells the computer what to do",
+            "B. database that stores user data and application information",
+            "C. program that runs on a computer to manage hardware resources",
+            "D. collection of interconnected components that achieve a goal together"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following statements defines the term, \u2018reserved words\u2019?",
+        "options": [
+            "A. They are optional and can be chosen by the programmer",
+            "B. They are predefined keywords with a specific meaning",
+            "C. They can be used only for the documentation purpose",
+            "D. They can be used as variable names"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The CORRECT format of the main structure in C++ program is",
+        "options": [
+            "A. char main( )",
+            "B. int main(void)",
+            "C. double main( )",
+            "D. float main(void)"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Consider the given variable names:\nI. num_1\nII. 1_num\nIII. num-1\nWhich is/are VALID?",
+        "options": [
+            "A. I only",
+            "B. III only",
+            "C. I and II",
+            "D. II and III"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "A developer wants to store the age and height of a student in a C++ program. The VALID variable declaration and data type is",
+        "options": [
+            "A. int b; and char c",
+            "B. int a; and float b",
+            "C. long int b; and char c",
+            "D. long int a; and long float b"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The CORRECT way to write a multi-line comment in C++ is",
+        "options": [
+            "A. *\\This is a comment\\*",
+            "B. */ This is a comment/*",
+            "C. /* This is a comment */",
+            "D. \\*This is a comment*\\"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the program with global variable var1 = 10 and local var2 = 5. The global variable is",
+        "options": [
+            "A. var1",
+            "B. var2",
+            "C. var3",
+            "D. var4"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Output of program: int a=15,b=4; int result = a/b; cout << result;",
+        "options": [
+            "A. Result: 3",
+            "B. Result: 3.0",
+            "C. Result: 3.000",
+            "D. Result: 3.75"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Output of program with int a3=8; float b4=45.5; cout<< ++a3 <<\u201d\\n\u201d << b4++ <<\u201d\\n\u201d ; cout << ++b4 <<\u201d\\n\u201d << a3++ <<\u201d\\n\u201d ;",
+        "options": [
+            "A. 8 45.5 46.5 9",
+            "B. 9 45.5 46.5 10",
+            "C. 9 46.5 47.5 9",
+            "D. 9 45.5 47.5 9"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider program: int a=4,b=5; if(a<=b) a=++a*6; b=b++-3; cout << a << 'and' << b; Output is",
+        "options": [
+            "A. 24 and 2",
+            "B. 25 and 3",
+            "C. 30 and 3",
+            "D. 30 and 2"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The number of bytes an unsigned long int occupies is",
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 8",
+            "D. 10"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Company awards bonus: >10 yrs =20%, 5\u201310 yrs=10%, <5 yrs=5%. If years_of_service=7, which code implements it correctly?",
+        "options": [
+            "A. if(years_of_service > 10) cout << 'Bonus: 20%'; else if(years_of_service >= 5) cout << 'Bonus: 5%'; else cout << 'Bonus: 10%';",
+            "B. if(years_of_service > 10) cout << 'Bonus: 10%'; else if(years_of_service < 5) cout << 'Bonus: 5%'; else cout << 'Bonus: 20%';",
+            "C. if(years_of_service > 10) cout << 'Bonus: 20%'; else if(years_of_service >= 5) cout << 'Bonus: 10%'; else cout << 'Bonus: 5%';",
+            "D. if(years_of_service >= 5) cout << 'Bonus: 5%'; else if(years_of_service > 10) cout << 'Bonus: 20%'; else cout << 'Bonus: 10%';"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "In a program, a switch statement without a \u2018break\u2019 will",
+        "options": [
+            "A. continue to execute the next case statement",
+            "B. go directly to the default case",
+            "C. give a syntax error",
+            "D. stop the execution"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The use of exit() function in C++ is to terminate the",
+        "options": [
+            "A. built-in function",
+            "B. current structure",
+            "C. user-defined function",
+            "D. entire program at once"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Program: for(; a<=n; a++) cout << a; n=5; Output?",
+        "options": [
+            "A. 2 3 4 5 6",
+            "B. 1 2 3 4 5",
+            "C. 0 0 0 0 0",
+            "D. 1 3 5 7 9"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Program with while(k<=n) cout<<n; n=5; How many times loop executes?",
+        "options": [
+            "A. 4",
+            "B. 5",
+            "C. 6",
+            "D. 7"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Program: int i=2; do { i=i*3; ++i; } while(i<=15); cout<<i; Output?",
+        "options": [
+            "A. 7",
+            "B. 15",
+            "C. 21",
+            "D. 22"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "For loop: if(i==3) break; cout<<i; Output?",
+        "options": [
+            "A. 0 1",
+            "B. 0 1 2",
+            "C. 0 1 2 3",
+            "D. 0 1 2 3 4"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "All of the following objectives can be achieved using a loop EXCEPT",
+        "options": [
+            "A. print first 10 numbers of fibonacci series",
+            "B. print the sum of first 5 odd numbers",
+            "C. determine the validity of a triangle",
+            "D. calculate the factorial of a number"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "An array of 5 integers in C++ is declared as",
+        "options": [
+            "A. int ar[5];",
+            "B. ar int[5];",
+            "C. int[5] ar;",
+            "D. int ar = new int[5];"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The size of array in C++ program is specified inside",
+        "options": [
+            "A. round brackets",
+            "B. square brackets",
+            "C. curly brackets",
+            "D. angle brackets"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Function to append a string onto the end of another string is",
+        "options": [
+            "A. strcat()",
+            "B. strlen()",
+            "C. strcpy()",
+            "D. strcmp()"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "All of the following are disadvantages of user-defined functions EXCEPT",
+        "options": [
+            "A. makes code run slower",
+            "B. eliminates the need for variables",
+            "C. increases complexity",
+            "D. allows code reuse and modularity"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Function: double fact(int a) The word 'double' represents",
+        "options": [
+            "A. name of function",
+            "B. function\u2019s arguments",
+            "C. data type of the argument",
+            "D. return type of the function"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Program: float result=mply(4.5,3.2); Output?",
+        "options": [
+            "A. 1.3",
+            "B. 1.4",
+            "C. 7.7",
+            "D. 14.4"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Program: void random(int a,int b){cout<<a+22<<endl; cout<<b-5<<endl;} Output with random(20,30.50)?",
+        "options": [
+            "A. A is:22 B is:50.50",
+            "B. A is:42 B is:25.50",
+            "C. A is:42 B is:25",
+            "D. A is:22 B is:80.0"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Declaration of user-defined function: int YZ(int s,int t);",
+        "options": [
+            "A. int YZ(int s,int t);",
+            "B. int YZ(int s,int t)",
+            "C. x=(s+t)%5;",
+            "D. u=YZ(c,d)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Number of actual arguments in the program calling YZ(c,d)?",
+        "options": [
+            "A. two",
+            "B. three",
+            "C. four",
+            "D. five"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Number of times the reference operator '&' is used in int b=&a; int d=&e;?",
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Output of program: int ca=2.5; int *cb= &ca; ca=5.5; cout<<ca<<*cb;",
+        "options": [
+            "A. ca:5 cb:5",
+            "B. ca:2.5 cb:5.5",
+            "C. ca:5.5 cb:2.5",
+            "D. ca:8 cb:7"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "CORRECT way to declare a pointer variable is",
+        "options": [
+            "A. int x*;",
+            "B. int *x;",
+            "C. int &x;",
+            "D. int x&;"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In OOP, a class is defined as",
+        "options": [
+            "A. built-in data type",
+            "B. built-in characters",
+            "C. user-defined data type",
+            "D. user-defined characters"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "All of the following are pillars of OOP EXCEPT",
+        "options": [
+            "A. abstraction",
+            "B. typecasting",
+            "C. encapsulation",
+            "D. polymorphism"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Output of program using constructor setting privateVal=25?",
+        "options": [
+            "A. 3",
+            "B. 7",
+            "C. 15",
+            "D. 25"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "FALSE statement about constructors is",
+        "options": [
+            "A. It has integer return type",
+            "B. It initialises objects of a class",
+            "C. It can take one or more arguments",
+            "D. Its name is same as class name"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "OOP concept where method and attributes are combined together is",
+        "options": [
+            "A. abstraction",
+            "B. inheritance",
+            "C. encapsulation",
+            "D. polymorphism"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Access specifiers for data members and member functions in same and derived class are",
+        "options": [
+            "A. Yes Yes Yes",
+            "B. Yes Yes No",
+            "C. No No Yes",
+            "D. No Yes Yes"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Operator overloading and function overloading are examples of",
+        "options": [
+            "A. abstraction",
+            "B. inheritance",
+            "C. encapsulation",
+            "D. polymorphism"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Syntax to derive class Z from base classes S and T is",
+        "options": [
+            "A. class Z : public S, public T",
+            "B. public S, public T : class Z",
+            "C. class Z : public S & T",
+            "D. public S & T : class Z"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Function used to open a file in C++ is",
+        "options": [
+            "A. fopen()",
+            "B. ifstream()",
+            "C. ofstream()",
+            "D. file.open()"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Classes related to C++ file handling for input operations are",
+        "options": [
+            "A. I only (ofstream)",
+            "B. II only (ifstream)",
+            "C. I and III (ofstream & fstream)",
+            "D. II and III (ifstream & fstream)"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "To read data from file 'xyz.txt' containing 'Ali 20', the character arrays required is/are",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 5",
+            "D. 6"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An example of single-user operating system is",
+        "options": [
+            "A. DOS",
+            "B. UNIX",
+            "C. Linux",
+            "D. MacOS"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "There are three processes J, K and L ready for execution. Each process will require some specific CPU time for its execution. CPU Time for Process J = 6 ms, K = 3 ms, L = 8 ms. What should be the sequence of execution to minimize average waiting time?",
+        "options": [
+            "A. J K L",
+            "B. J L K",
+            "C. K J L",
+            "D. L K J"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the following statements about threads in a process: I. sequence of instruction, II. can be executed independently, III. instance of a program. Which is/are correct?",
+        "options": [
+            "A. I only",
+            "B. III only",
+            "C. I and II",
+            "D. II and III"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "If an unexpected keyboard malfunction occurs, which OS function deals with it?",
+        "options": [
+            "A. command-interpreter",
+            "B. process management",
+            "C. interrupt handling",
+            "D. protection system"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A process has requested a resource that is unavailable. What is the process state while waiting?",
+        "options": [
+            "A. new",
+            "B. blocked",
+            "C. running",
+            "D. terminated"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The type of OS used by ATM is",
+        "options": [
+            "A. multiprocessor OS",
+            "B. multiprogramming batch system",
+            "C. time-sharing OS",
+            "D. real-time OS"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The task NOT performed in the development phase of SDLC is",
+        "options": [
+            "A. design the database",
+            "B. design flowchart & algorithms",
+            "C. generate code for dataflow process",
+            "D. generate code for actual user interface"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Responsibilities of a system analyst from: I. Write programs, II. Analyse mistakes, III. Analyse data processing requirements, IV. Investigate problem & plan solution?",
+        "options": [
+            "A. I and II",
+            "B. I and IV",
+            "C. II and III",
+            "D. III and IV"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Compiler error with variable name $pecial,T@sk. Correct form?",
+        "options": [
+            "A. $pecial_T@sk",
+            "B. Special T@sk",
+            "C. Special_Task",
+            "D. $pecial,Task"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Escape sequence used to produce beep sound is",
+        "options": [
+            "A. \\a",
+            "B. \\b",
+            "C. \\r",
+            "D. \\t"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which expression has NO relational operators?",
+        "options": [
+            "A. (x!=y)||(y!=z)",
+            "B. (x!=y)||!(y&&z)",
+            "C. (x>=y)&&(y&&z)",
+            "D. (!x||y)&&(!y&&z)"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Integer type in C++ that CANNOT store -32,765 is",
+        "options": [
+            "A. int",
+            "B. long int",
+            "C. short int",
+            "D. unsigned short int"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Number of times arithmetic operators are used in given program (j==5; k=8; a=k+j; b=j-k;)?",
+        "options": [
+            "A. two",
+            "B. three",
+            "C. four",
+            "D. five"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Number of variables initialized in given program (j==5; k=8; a=k+j; b=j-k;)?",
+        "options": [
+            "A. two",
+            "B. four",
+            "C. six",
+            "D. eight"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Value of float L = 1.9838474; displayed in output is",
+        "options": [
+            "A. 1.9e+06",
+            "B. 1.98385",
+            "C. 1.983e+04",
+            "D. 1.98384e+02"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Header files required to use cin, strcmp, setprecision are",
+        "options": [
+            "A. iostream.h & conio.h",
+            "B. string.h & iomanip.h",
+            "C. iostream.h, conio.h & iomanip.h",
+            "D. iostream.h, string.h & iomanip.h"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Operators ||, !, /=, + arranged by precedence (Low \u2192 High) is",
+        "options": [
+            "A. /= || ! +",
+            "B. ! + || /=",
+            "C. + /= ! ||",
+            "D. || ! /= +"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Number of times a manipulator is used in program (X=Y; cout<<X; cout<<Y;)?",
+        "options": [
+            "A. one",
+            "B. two",
+            "C. three",
+            "D. four"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Upon execution, what will program display: int w=20; do { w=w+1; cout<<w; } while(w<15);",
+        "options": [
+            "A. 14",
+            "B. 15",
+            "C. 20",
+            "D. 21"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Rewrite for loop using while loop: for(i=1;i<=3;i++){x=i*2;}. Correct equivalent?",
+        "options": [
+            "A. while(i<3){x=i*2;i=i+1;}",
+            "B. while(i<=3){x=i*2;i=i+1;}",
+            "C. while(i<3){x=i*2;}",
+            "D. while(i<=3){x=i*2;}"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Which gives back control of flow to calling function?",
+        "options": [
+            "A. exit",
+            "B. return",
+            "C. break",
+            "D. default"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Structure of given syntax: if(condition){ } else { } is",
+        "options": [
+            "A. if-else statement",
+            "B. else-if statement",
+            "C. nested if statement",
+            "D. simple if statement"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Programming structure that can calculate sum of first ten even numbers is",
+        "options": [
+            "A. loop",
+            "B. array",
+            "C. string",
+            "D. selection"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Output of switch case with char ch='q' (cases P,Q,R,default)?",
+        "options": [
+            "A. Physics",
+            "B. English",
+            "C. Computer",
+            "D. Mathematics"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Output of for loop: for(n=0;n<10;n=n+2){cout<<n;}?",
+        "options": [
+            "A. 1 3 5 7 9",
+            "B. 0 2 4 6 8",
+            "C. 0 2 4 6 8 10",
+            "D. 0 1 2 3 4 5 6 7 8 9"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Execution of do-while loop: int j=15; do{j-=2; cout<<j--;}while(j>14); displays",
+        "options": [
+            "A. 15",
+            "B. 14",
+            "C. 13",
+            "D. 12"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Declaration of array int sample_array[3][4]; can store how many integers?",
+        "options": [
+            "A. 7",
+            "B. 12",
+            "C. 16",
+            "D. 20"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Statement strcpy(x,y); copies content of",
+        "options": [
+            "A. x into y",
+            "B. y into x",
+            "C. x and y into another variable",
+            "D. another variable into x and y"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Array declaration to store values 10,20,30,40,50 in Values[]?",
+        "options": [
+            "A. int Values[5]={10,20,30,40,50}",
+            "B. int Values{5}=[10,20,30,40,50]",
+            "C. int Values[4]={\"10\",\"20\",\"30\",\"40\",\"50\"}",
+            "D. int Values{4}=[\"10\",\"20\",\"30\",\"40\",\"50\"]"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Correct use of arguments with user-defined function Test?",
+        "options": [
+            "A. int Test(int x,int y)",
+            "B. Test(int x,int y)",
+            "C. int Test(x,y)",
+            "D. Test(x,y)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Function always present in a C++ program?",
+        "options": [
+            "A. cin",
+            "B. cout",
+            "C. gets function",
+            "D. main function"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Variable declared in user-defined function can be accessed",
+        "options": [
+            "A. within main function",
+            "B. only within that function",
+            "C. only outside that function",
+            "D. in any other function"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Number of components in a function?",
+        "options": [
+            "A. Two",
+            "B. Three",
+            "C. Four",
+            "D. Five"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Description TRUE about call by reference?",
+        "options": [
+            "A. Any change to parameter affects argument",
+            "B. Copies address of argument",
+            "C. Copies actual value",
+            "D. Change to parameter keeps argument unchanged"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Program with void T(int x) and void T(double y) depicts concept of",
+        "options": [
+            "A. function overriding",
+            "B. function inheritance",
+            "C. function overloading",
+            "D. function encapsulation"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Keyword 'inline' in an inline function is used with",
+        "options": [
+            "A. function call",
+            "B. main function",
+            "C. return function",
+            "D. function declaration"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Program with float a=17.8; float *b; b=&a; True statement?",
+        "options": [
+            "A. a is pointer",
+            "B. a stores address of b",
+            "C. b stores value of a",
+            "D. b is pointer variable"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Interpretation of: int j=20,k=34; int *n=j,*m=&k; n=m;",
+        "options": [
+            "A. m points to j",
+            "B. n points to k",
+            "C. value of k assigned to j",
+            "D. value of j assigned to k"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Output of program: int a=10,b=20,*c; c=&a;a=30; cout a,b?",
+        "options": [
+            "A. a=10,b=10",
+            "B. a=10,b=30",
+            "C. a=30,b=10",
+            "D. a=30,b=20"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Two objects num1 and num2 created from class Calculate. Correct code?",
+        "options": [
+            "A. num1:num2 Calculate;",
+            "B. Calculate num1:num2;",
+            "C. num1,num2 Calculate;",
+            "D. Calculate num1,num2;"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "OOP feature allowing multiple functions with same name but different signatures is",
+        "options": [
+            "A. function overriding",
+            "B. function inheritance",
+            "C. function overloading",
+            "D. function encapsulation"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Characteristic of destructor?",
+        "options": [
+            "A. releases memory of object",
+            "B. gives initial value",
+            "C. same name as class",
+            "D. can be overloaded"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Output of program with class P, constructors P(), P(int), P(int,int) and show()?",
+        "options": [
+            "A. 0 7 25",
+            "B. 3 49 25",
+            "C. 0 25 7",
+            "D. 3 25 49"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Number of data members accessed ONLY within class RectArea?",
+        "options": [
+            "A. one",
+            "B. two",
+            "C. three",
+            "D. four"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Final balance after depositing $700 and withdrawing $400 from Sameen's account?",
+        "options": [
+            "A. $300",
+            "B. $700",
+            "C. $1100",
+            "D. $1200"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Output of program with privateVar initialized to 15 then constructor sets to 10?",
+        "options": [
+            "A. 5",
+            "B. 10",
+            "C. 15",
+            "D. 25"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Output of program with class D derived from B, obj.value printed?",
+        "options": [
+            "A. 10",
+            "B. 20",
+            "C. 30",
+            "D. 40"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Purpose of while loop in file-reading program?",
+        "options": [
+            "A. writes characters",
+            "B. searches for character",
+            "C. counts characters",
+            "D. reads and displays characters"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Recommended practice for closing file in C++?",
+        "options": [
+            "A. delete file",
+            "B. fclose()",
+            "C. file.close()",
+            "D. automatic on exit"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Significance of eof() function when reading a file in C++?",
+        "options": [
+            "A. opens file",
+            "B. counts lines",
+            "C. checks if file exists",
+            "D. checks end of file reached"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The type of operating system that is used in space research program is",
+        "options": [
+            "A. real-time operating system.",
+            "B. multitasking operating system.",
+            "C. time-sharing operating system.",
+            "D. multiprogramming operating system."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Disk Operating System (DOS) is an example of",
+        "options": [
+            "A. time-sharing operating system.",
+            "B. single-user operating system.",
+            "C. multi-user operating system.",
+            "D. real-time operating system."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Consider the given three processes X, Y and Z that are ready for execution. The operating system will manage the CPU time as follows:\nProcess X: 3 milli sec\nProcess Y: 1 milli sec\nProcess Z: 4 milli sec\nThe fastest executed sequence will be",
+        "options": [
+            "A. XYZ",
+            "B. ZYX",
+            "C. ZXY",
+            "D. YXZ"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "All of the following are functions of operating system EXCEPT",
+        "options": [
+            "A. interrupt handling.",
+            "B. process management.",
+            "C. network management.",
+            "D. compiling a computer program."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "An operating system loads multiple programs, processes, tasks and threads in main memory and executes them at the same time. This function of operating system is called",
+        "options": [
+            "A. multiprogramming.",
+            "B. multiprocessing.",
+            "C. multithreading.",
+            "D. multitasking."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The function of an operating system that allows to create user groups and assign privileges to them is",
+        "options": [
+            "A. I/ O management.",
+            "B. user management.",
+            "C. protection system.",
+            "D. network management."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Consider the given tasks.\nI. Design the database\nII. Design the flowchart and algorithms\nIII. Design the actual user interface screen\nIV. Generate the code for dataflow process\nThe tasks performed in the development phase of System Development Life Cycle (SDLC) are",
+        "options": [
+            "A. II and III.",
+            "B. II and IV.",
+            "C. I, III and IV.",
+            "D. II, III and IV."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The first phase of SDLC is",
+        "options": [
+            "A. feasibility study.",
+            "B. planning phase.",
+            "C. defining phase.",
+            "D. analysis phase."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The symbol that indicates the end of a statement in a C++ program is",
+        "options": [
+            "A. )",
+            "B. >",
+            "C. ;",
+            "D. }"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is/ are allowed in variable names?\nI. Digits (0-9)\nII. Underscore (_)\nIII. Blank space",
+        "options": [
+            "A. II only",
+            "B. III only",
+            "C. I and II",
+            "D. I and III"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The number of bytes an unsigned long int occupies is",
+        "options": [
+            "A. 2",
+            "B. 4",
+            "C. 8",
+            "D. 10"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "Consider the given C++ code.\nshort int var1, var2\ndouble var3, var4\nchar var5\nfloat var6\nIn the given C++ code, the total memory storage occupied by short int and float type variables is",
+        "options": [
+            "A. 6 bytes.",
+            "B. 8 bytes.",
+            "C. 12 bytes.",
+            "D. 16 bytes."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The escape sequence that is used to move the cursor to the beginning of current line is",
+        "options": [
+            "A. \\b",
+            "B. \\n",
+            "C. \\r",
+            "D. \\t"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "If a user wants to display all kinds of output on the screen, then the output function used will be",
+        "options": [
+            "A. cin();",
+            "B. gets();",
+            "C. puts();",
+            "D. cout();"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The highest value that can be stored in a variable having short int data type is",
+        "options": [
+            "A. 32768",
+            "B. 32767",
+            "C. -32767",
+            "D. -32768"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The number of global variables present in the given program is",
+        "options": [
+            "A. 2",
+            "B. 3",
+            "C. 4",
+            "D. 5"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The output of this program is",
+        "options": [
+            "A. 5 14",
+            "B. 5 -14",
+            "C. -5 14",
+            "D. -5 -14"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the given expression.\n(5%3)||(!(1)&&0)\nThe number of binary operator(s) in this expression is",
+        "options": [
+            "A. one.",
+            "B. two.",
+            "C. three.",
+            "D. four."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the given syntax.\nif (condition)\n{\n if (condition)\n {\n //statement\n }\n else\n {\n //statement\n }\n //statement\n}\nThe structure identified from the given syntax is",
+        "options": [
+            "A. if-else statement.",
+            "B. else-if statement.",
+            "C. nested if statement.",
+            "D. simple if statement."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The MOST suitable programming structure to determine the validity of a triangle is",
+        "options": [
+            "A. loop.",
+            "B. array.",
+            "C. string.",
+            "D. selection."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The output of the given for loop program: for (int i=15; i>1; i-=3){ cout<<i; }",
+        "options": [
+            "A. 15 12 9 6 3 1",
+            "B. 15 12 9 6 3",
+            "C. 12 9 6 3 1",
+            "D. 12 9 6 3"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In C++ programming, multiple statement for loop is terminated with a",
+        "options": [
+            "A. colon.",
+            "B. semicolon.",
+            "C. right brace.",
+            "D. right bracket."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "If the input of the nested if program is 1, then the output will be",
+        "options": [
+            "A. Red.",
+            "B. Orange.",
+            "C. Yellow.",
+            "D. Syntax error."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "To get the output Yellow, the input should be",
+        "options": [
+            "A. -2",
+            "B. -1",
+            "C. 0",
+            "D. 1"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "All of the following objectives can be achieved using loop statement EXCEPT",
+        "options": [
+            "A. print first 10 numbers of Fibonacci series.",
+            "B. print the sum of first 5 odd numbers.",
+            "C. determine the validity of a triangle.",
+            "D. calculate the factorial of a number."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Upon execution, the given do-while program will display",
+        "options": [
+            "A. 20",
+            "B. 18",
+            "C. 17",
+            "D. 14"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "An array is declared by specifying its",
+        "options": [
+            "A. data type followed by its size and then its name.",
+            "B. data type followed by its name and then its size.",
+            "C. name followed by its data type and then its size.",
+            "D. name followed by its size and then its data type."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The size of array is specified inside",
+        "options": [
+            "A. round brackets.",
+            "B. square brackets.",
+            "C. curly brackets.",
+            "D. angle brackets."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "When values from an array are read using a loop, what effect (change or remain constant) will it have on the aspects of array element (index number, name and value)?",
+        "options": [
+            "A. Remains Constant, Changes, Remains Constant",
+            "B. Remains Constant, Changes, Changes",
+            "C. Changes, Remains Constant, Remains Constant",
+            "D. Changes, Remains Constant, Changes"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A programming concept that allows code to be written once and reused is",
+        "options": [
+            "A. loop.",
+            "B. array.",
+            "C. pointer.",
+            "D. function."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "The built-in functions in this list are",
+        "options": [
+            "A. I and II.",
+            "B. I and IV.",
+            "C. II and III.",
+            "D. III and IV."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "A return type that a function may have is",
+        "options": [
+            "A. loop.",
+            "B. array.",
+            "C. pointer.",
+            "D. pre-processor."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The statement that shows the CORRECT use of parameters with a user-defined function named as ADD is",
+        "options": [
+            "A. int ADD(int x, int y)",
+            "B. int ADD(x, y);",
+            "C. ADD(x, y);",
+            "D. ADD(x, y)"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "A component of user defined function that is NOT present in this program is",
+        "options": [
+            "A. function header.",
+            "B. calling the function.",
+            "C. function declaration.",
+            "D. invoking the function."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The number of actual parameters in this program is",
+        "options": [
+            "A. two.",
+            "B. three.",
+            "C. five.",
+            "D. six."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The output of the given program is",
+        "options": [
+            "A. 5 5 19",
+            "B. 2 1 6",
+            "C. 5 9 14",
+            "D. 2 3 4"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The output of the pointer program is",
+        "options": [
+            "A. a variable: 9\nb variable: 0x6ffe04\n*b variable: 9",
+            "B. a variable: 9\nb variable: 0x6ffe04\n*b variable: 10",
+            "C. a variable: 9.9\nb variable: 0x6ffe04\n*b variable: 9.9",
+            "D. a variable: 9.9\nb variable: 0x6ffe04\n*b variable: 10"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The memory address of a variable is stored in a/an",
+        "options": [
+            "A. object.",
+            "B. pointer.",
+            "C. function.",
+            "D. constructor."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The CORRECT way to declare a pointer variable is",
+        "options": [
+            "A. int x*;",
+            "B. int *x;",
+            "C. int &x;",
+            "D. int x&;"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "All of the following are important pillars of object-oriented programming (OOP) EXCEPT",
+        "options": [
+            "A. abstraction.",
+            "B. typecasting.",
+            "C. encapsulation.",
+            "D. polymorphism."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The process of hiding irrelevant details from the user is called",
+        "options": [
+            "A. abstraction.",
+            "B. inheritance.",
+            "C. encapsulation.",
+            "D. polymorphism."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Operator overloading and function overloading are examples of",
+        "options": [
+            "A. abstraction.",
+            "B. inheritance.",
+            "C. encapsulation.",
+            "D. polymorphism."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Which of the following is FALSE about constructors?",
+        "options": [
+            "A. It has integer return type.",
+            "B. It initialises objects of a class.",
+            "C. It can take one or more arguments.",
+            "D. Its name is the same as class name."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The number of access specifiers used in this program is",
+        "options": [
+            "A. one.",
+            "B. two.",
+            "C. three.",
+            "D. four."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The number of objects declared in this program is",
+        "options": [
+            "A. one.",
+            "B. two.",
+            "C. three.",
+            "D. four."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An object X of class Y will be declared as",
+        "options": [
+            "A. X Y;",
+            "B. Y X;",
+            "C. X, Y;",
+            "D. Y, X;"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The data member and member functions can be accessed ONLY in the same class. The access specifiers used are",
+        "options": [
+            "A. yes yes yes",
+            "B. yes yes no",
+            "C. no no yes",
+            "D. no yes yes"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following classes are related to C++ file handling with respect to output operations?",
+        "options": [
+            "A. I only",
+            "B. II only",
+            "C. I and III",
+            "D. II and III"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A command of C++ language used to open a file named as mydata.dat file in the binary mode is",
+        "options": [
+            "A. ofstream myFile; newFile.open('mydata.dat', ios::binary);",
+            "B. ofstream newFile; myFile.open('mydata.dat', ios::binary);",
+            "C. ofstream myFile; myFile.open('mydata.dat', ios::bin);",
+            "D. ofstream myFile; myFile.open('mydata.dat', ios::binary);"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "A sample file named as abcfile.txt has the following data. Day 10\nTo read data from this file, the number of character arrays required is",
+        "options": [
+            "A. 1",
+            "B. 2",
+            "C. 5",
+            "D. 6"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "An example of productivity software is",
+        "options": [
+            "A. Norton.",
+            "B. Windows.",
+            "C. MS Excel.",
+            "D. Media player."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The last stage of data processing cycle is",
+        "options": [
+            "A. input.",
+            "B. output.",
+            "C. storage.",
+            "D. process."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "In laptops, mouse is replaced by",
+        "options": [
+            "A. joystick.",
+            "B. trackball.",
+            "C. light pen.",
+            "D. touchpad."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "On converting 2 KB into bits, we get",
+        "options": [
+            "A. 2000",
+            "B. 2048",
+            "C. 16000",
+            "D. 16384"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Consider the following characteristics of a printer:\n\u2022 Its printing speed is very fast.\n\u2022 Its implementation cost is high.\n\u2022 Its print resolution is commonly around 600 to 1200 dots per inch (DPI).\nThe printer with the given characteristics is identified as",
+        "options": [
+            "A. laser printer.",
+            "B. inkjet printer.",
+            "C. thermal printer.",
+            "D. electrostatic printer."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The phase of system development life cycle (SDLC) in which all the aspects of system are checked for functionality and performance is",
+        "options": [
+            "A. analysis.",
+            "B. maintenance.",
+            "C. testing and debugging.",
+            "D. design and development."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "With respect to a consumer, which of the following is a potential drawback of e-commerce?",
+        "options": [
+            "A. Availability of reviews and feedback about the product",
+            "B. Requirement of a website but not the infrastructure",
+            "C. Comparison of prices among several providers",
+            "D. Experience of product before purchasing"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "All of the following are uses of computer in education EXCEPT",
+        "options": [
+            "A. social networking.",
+            "B. teaching and learning.",
+            "C. school administration.",
+            "D. testing and evaluation."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "A CPU register that holds the address of next instruction to be executed is",
+        "options": [
+            "A. memory address register.",
+            "B. memory buffer register.",
+            "C. program counter.",
+            "D. accumulator."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Consider the given characteristics:\n\u2022 It is fast in execution.\n\u2022 The data stored is easily accessible.\n\u2022 It performs read and write operations.\n\u2022 It can store data as long as power is supplied.\nThe type of memory identified from the given characteristics is",
+        "options": [
+            "A. RAM.",
+            "B. ROM.",
+            "C. cache.",
+            "D. register."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The shortcut key in MS Word to cut the text is",
+        "options": [
+            "A. Ctrl+C",
+            "B. Ctrl+V",
+            "C. Ctrl+X",
+            "D. Ctrl+Z"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "To calculate the total number of staff in Excel, the formula used will be",
+        "options": [
+            "A. Add (B2:B6)",
+            "B. Sum (B2:B6)",
+            "C. =Sum (B2:B6)",
+            "D. =Add (B2:B6)"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The layout of the MS PowerPoint in the given image can be classified as",
+        "options": [
+            "A. Comparison.",
+            "B. Two Content.",
+            "C. Title and Content.",
+            "D. Content with Caption."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "Which of the following is a database object?",
+        "options": [
+            "A. Field",
+            "B. Record",
+            "C. Primary key",
+            "D. Relationship"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Arman applied a relationship on two tables A and B: each row of A is linked to one or more rows of B, each row of B relates to more than one row of A. The relationship is",
+        "options": [
+            "A. one-to-one.",
+            "B. one-to-many.",
+            "C. many-to-one.",
+            "D. many-to-many."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "An example of valid field name in MS Access is",
+        "options": [
+            "A. Marks]Obtained",
+            "B. Marks.Obtained",
+            "C. Marks!Obtained",
+            "D. Marks Obtained"
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Haris wants to set the primary key to a field. The type of view he should use is",
+        "options": [
+            "A. Design view.",
+            "B. Datasheet view.",
+            "C. PivotChart view.",
+            "D. PivotTable view."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Which of the following database controls is used to get data from user?",
+        "options": [
+            "A. Form",
+            "B. Table",
+            "C. Query",
+            "D. Report"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The given type of form in MS Access is",
+        "options": [
+            "A. tabular form.",
+            "B. justified form.",
+            "C. datasheet form.",
+            "D. columnar form."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "This flowchart symbol represents",
+        "options": [
+            "A. decision in a flowchart.",
+            "B. processing in a flowchart.",
+            "C. off-page connector in a flowchart.",
+            "D. starting and ending in a flowchart."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The output of the algorithm: L=13, M=5, N=L%M-2 is",
+        "options": [
+            "A. 0",
+            "B. 1",
+            "C. 2",
+            "D. 3"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The step of problem solving in which different methods are implemented to check all possible solutions is",
+        "options": [
+            "A. analysing the problem.",
+            "B. planning solutions of the problem.",
+            "C. selecting the best solution of the problem.",
+            "D. preparing candid solutions of the problem."
+        ],
+        "correct_answer": "D"
+    },
+    {
+        "question": "Low level programming is known for",
+        "options": [
+            "A. I only.",
+            "B. II only.",
+            "C. I and III.",
+            "D. II and III."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The shortcut key to run a program in Turbo C IDE is",
+        "options": [
+            "A. Ctrl+F9",
+            "B. Alt+F9",
+            "C. F9",
+            "D. F8"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "All of the following are advantages of C language EXCEPT",
+        "options": [
+            "A. supports object-oriented programming.",
+            "B. communicates directly with hardware.",
+            "C. is an efficient language.",
+            "D. is a portable language."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In C programming, the function body contains the",
+        "options": [
+            "A. statement.",
+            "B. header file.",
+            "C. function name.",
+            "D. function argument."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "In C language, the program before compilation is called",
+        "options": [
+            "A. machine code.",
+            "B. source code.",
+            "C. binary code.",
+            "D. object code."
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The file extension of a source code in a C program is",
+        "options": [
+            "A. .c",
+            "B. .lib",
+            "C. .obj",
+            "D. .exe"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The CORRECT syntax for a single line comment in C is",
+        "options": [
+            "A. /Comment",
+            "B. //Comment",
+            "C. /*Comment",
+            "D. /*Comment*/"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "A function that takes all kinds of input is",
+        "options": [
+            "A. getc",
+            "B. getch",
+            "C. scanf",
+            "D. getchar"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "The data type MOST suitable to store the smallest decimal value is",
+        "options": [
+            "A. int",
+            "B. long",
+            "C. float",
+            "D. double"
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "An escape sequence used to produce a beep is",
+        "options": [
+            "A. \\r",
+            "B. \\a",
+            "C. \\b",
+            "D. \\0"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The CORRECT input statement to take a string as input is",
+        "options": [
+            "A. scanf('%f', var_1)",
+            "B. scanf('%s', var_1)",
+            "C. scanf('%c', var_1)",
+            "D. scanf('%d', var_1)"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "All of the following operators are used to compare values EXCEPT",
+        "options": [
+            "A. !=",
+            "B. ++",
+            "C. >=",
+            "D. =="
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The output of the C program: printf('Result = %d', 6 + a / 10 * b), where a=14, b=4 is",
+        "options": [
+            "A. 8",
+            "B. 10",
+            "C. 22",
+            "D. 40"
+        ],
+        "correct_answer": "B"
+    },
+    {
+        "question": "The number of repetition in the for loop: for(i=1; i<11; i+=2) is",
+        "options": [
+            "A. 5",
+            "B. 6",
+            "C. 10",
+            "D. 11"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The given syntax: if(condition){ if(condition){ //statement; }} is an example of",
+        "options": [
+            "A. if-else structure.",
+            "B. if-else-if structure.",
+            "C. nested if structure.",
+            "D. simple if structure."
+        ],
+        "correct_answer": "C"
+    },
+    {
+        "question": "A control statement in which the loop is immediately terminated and control resumes after the loop is",
+        "options": [
+            "A. break.",
+            "B. switch.",
+            "C. continue.",
+            "D. do-while."
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "The CORRECT syntax to declare a user-defined function named Factorial that takes one integer argument is",
+        "options": [
+            "A. int Factorial(int a);",
+            "B. int Factorial(void);",
+            "C. integer Factorial(void);",
+            "D. integer Factorial(integer a);"
+        ],
+        "correct_answer": "A"
+    },
+    {
+        "question": "Consider the following properties. I. It reduces the readability of code. II. It increases the reusability of code. III. It allows the division of complex codeThe property(ies) TRUE about function is/are",
+        "options": [
+            "A. I only.",
+            "B. III only.",
+            "C. I and II.",
+            "D. II and III."
+        ],
+        "correct_answer": "D"
+    }
+]
